@@ -16,6 +16,7 @@ html, body {
 }
 
 button {
+  color: #000000;
   padding: 10px;
   margin: 10px;
   background-size: contain;
