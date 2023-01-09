@@ -55,3 +55,12 @@ function Reset() {
   }
   Initialize();
 }
+
+
+/*
+1. Added alt text for the buttons and added text
+2. Altered the headers so they would be more informative
+3. Changed the color scheme to a calmer blue and gray
+4. Changed the link names to be more informative
+5. Used gridbox and flexboxes to make the page more dynamic
+*/
